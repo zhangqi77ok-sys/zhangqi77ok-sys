@@ -7,4 +7,6 @@ pip install -e ".[dev]"
 tc "帮我看看这个仓库"
 ```
 
+也在做 [TianShell](https://github.com/zhangqi77ok-sys/tianshell)，一个自带 MCP 的可视化 SSH 工具，用起来有点像 FinalShell。
+
 另外还有一个小工具：[grok-zh](https://github.com/zhangqi77ok-sys/grok-zh)，用来给 Grok CLI 一键装上简体中文。
